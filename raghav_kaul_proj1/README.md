@@ -1,4 +1,4 @@
-# README
+README
 ---------
 1. Open raghav_kaul_project1.ipynb in Google Colab.
 2. Execute all cells. (Ctrl + F9)
