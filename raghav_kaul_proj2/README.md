@@ -1,5 +1,5 @@
 README
--------
+--------
  
 1.	The zip file contains two python files, one for training the model (train.py) and one for testing the model (test.py) on an unknown dataset. 
 2.	The model is trained in the train.py file and stored as a pickle file (finalized_model.pkl). This file is fed to test.py as a trained model and a corresponding output for the meal/no-meal (1/0) data is generated. 
